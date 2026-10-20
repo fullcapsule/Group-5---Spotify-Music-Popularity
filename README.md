@@ -111,30 +111,14 @@ Tracks were clustered on standardized `valence` (positivity) and `energy` (inten
 ├── reports/
 │   └── spotify_hiphop_capstone_report.pdf # PDF Report
 ├── README.md                       # Project documentation
-└── requirements.txt                # Python dependencies
 ```
 
 ### Quickstart & Installation
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/spotify-hiphop-capstone.git
-   cd spotify-hiphop-capstone
+   git clone https://github.com/fullcapsule/Group-5---Spotify-Music-Popularity
    ```
-
-2. **Create a virtual environment & install dependencies:**
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows use: venv\Scripts\activate
-   pip install -r requirements.txt
-   ```
-
-3. **Run the analysis:**
-   ```bash
-   jupyter notebook notebooks/capstone_analysis.ipynb
-   ```
-
----
 
 ## 📜 License
 
